@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347469642231",
+    "project_id": "marketplace-app-learn",
+    "storage_bucket": "marketplace-app-learn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347469642231:android:5d138a4ba62e01bab0d6f2",
+        "android_client_info": {
+          "package_name": "learning.marketplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-4TQYpQZGtdiXRDHJONOYIjTXzlv3w0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
